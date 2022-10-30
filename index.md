@@ -6,3 +6,9 @@
 Should I try this ?
 $ sudo rm -rf /
 ```
+
+- [x] eat
+- [x] code
+- [ ] exercise
+- [ ] sleep
+- [ ] repeat
